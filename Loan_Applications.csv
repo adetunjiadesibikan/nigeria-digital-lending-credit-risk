@@ -1,0 +1,501 @@
+﻿loan_id,applicant_id,application_date,loan_product,loan_amount,loan_tenor_days,interest_rate_pct,applicant_age,employment_type,monthly_income,debt_to_income_ratio,credit_score_band,state,channel,approval_status,decline_reason
+LN00001,APP2824,13/01/2024,SME Loan,2554301,237,14.2,55,Salaried,302323,42.5,A,FCT,Mobile App,Approved,
+LN00002,APP1434,14/10/2024,Salary Advance,47590,30,6.5,21,Self-Employed,1691334,54.3,C,Oyo,Mobile App,Approved,
+LN00003,APP6514,22/02/2024,Salary Advance,11338,30,10.9,23,Self-Employed,1630358,35.3,A,Enugu,Mobile App,Approved,
+LN00004,APP6925,22/10/2024,Salary Advance,9558,30,9.6,26,Informal Trader,172049,57.7,B,Kaduna,USSD,Approved,
+LN00005,APP7065,30/06/2024,Salary Advance,22496,30,9.3,36,Salaried,462679,35.4,B,Rivers,USSD,Declined,Low Credit Score
+LN00006,APP4752,17/01/2024,Buy Now Pay Later,15145,22,3.5,27,Student,104098,27.3,C,Enugu,Web,Declined,High DTI
+LN00007,APP5339,12/03/2024,Salary Advance,41789,30,10.2,58,Self-Employed,937603,29.9,E,Kano,Mobile App,Approved,
+LN00008,APP1771,26/02/2024,Salary Advance,15484,30,9.2,50,Salaried,647253,63.4,D,Lagos,USSD,Pending,
+LN00009,APP9797,16/05/2024,SME Loan,3353598,208,16.7,21,Salaried,672366,63.5,D,FCT,Web,Declined,Low Credit Score
+LN00010,APP3504,10/07/2024,SME Loan,4948929,180,21.6,28,Self-Employed,861225,58.3,D,Ogun,Mobile App,Declined,Low Credit Score
+LN00011,APP2403,05/09/2024,Buy Now Pay Later,26923,18,3.9,56,Self-Employed,446296,24.6,D,Enugu,Agent,Declined,Low Credit Score
+LN00012,APP6107,23/07/2024,Buy Now Pay Later,23295,25,6.1,28,Self-Employed,619895,22.4,B,Rivers,USSD,Approved,
+LN00013,APP1964,27/04/2024,Salary Advance,7058,30,5.5,52,Salaried,569287,39.7,C,Kaduna,Mobile App,Approved,
+LN00014,APP7669,07/04/2024,Salary Advance,48187,30,7.5,24,Self-Employed,1512147,45.9,C,Lagos,Mobile App,Approved,
+LN00015,APP2790,07/05/2024,Salary Advance,40146,30,6,50,Salaried,643882,58.1,A,FCT,Mobile App,Declined,High DTI
+LN00016,APP1241,17/02/2024,Buy Now Pay Later,29810,21,4.2,34,Self-Employed,1913303,32.1,A,Enugu,Mobile App,Approved,
+LN00017,APP8454,26/05/2024,Personal Loan,432995,161,17.9,33,Self-Employed,722241,22,A,Lagos,USSD,Approved,
+LN00018,APP8811,14/09/2024,Buy Now Pay Later,19403,19,3.4,32,Self-Employed,243699,42.7,C,Rivers,Mobile App,Declined,High DTI
+LN00019,APP5033,23/10/2024,Personal Loan,374734,100,15,54,Self-Employed,763475,61.4,B,Oyo,Mobile App,Approved,
+LN00020,APP5915,22/08/2024,Salary Advance,9754,30,8.2,19,Student,19602,39.6,C,Kano,Agent,Declined,Insufficient Income
+LN00021,APP5002,08/07/2024,Salary Advance,33716,30,9.3,28,Student,79329,10.4,D,Ogun,Agent,Approved,
+LN00022,APP3200,15/05/2024,Salary Advance,12014,30,6.9,42,Self-Employed,526974,47.8,D,Kaduna,Mobile App,Declined,Low Credit Score
+LN00023,APP2512,20/11/2024,Personal Loan,195060,95,10,37,Informal Trader,134715,50.8,C,Enugu,USSD,Approved,
+LN00024,APP3442,06/10/2024,Salary Advance,29196,30,8,44,Salaried,203665,59.4,B,Rivers,USSD,Approved,
+LN00025,APP7658,13/11/2024,SME Loan,2485896,221,27.6,47,Informal Trader,62995,19.9,E,Enugu,Web,Declined,Low Credit Score
+LN00026,APP5371,22/03/2024,SME Loan,1406771,277,26,35,Informal Trader,154633,54.9,C,Ogun,Web,Declined,High DTI
+LN00027,APP4652,13/01/2024,SME Loan,3842574,264,16.5,38,Salaried,856406,45.3,B,Oyo,Agent,Approved,
+LN00028,APP5279,01/04/2024,Personal Loan,189180,94,11.3,41,Self-Employed,1015184,43.3,C,Enugu,Web,Approved,
+LN00029,APP1727,28/12/2024,Personal Loan,322587,158,18.2,28,Student,35825,30,A,Oyo,USSD,Approved,
+LN00030,APP3041,02/06/2024,Personal Loan,399643,142,13.9,56,Self-Employed,366941,20.6,C,Enugu,USSD,Declined,Insufficient Income
+LN00031,APP7653,07/10/2024,Buy Now Pay Later,11957,23,4.5,41,Informal Trader,293787,34.3,C,Kaduna,Web,Declined,High DTI
+LN00032,APP2389,25/05/2024,Personal Loan,381843,169,14,36,Informal Trader,212749,22.4,A,Lagos,Mobile App,Declined,Low Credit Score
+LN00033,APP8461,31/07/2024,Buy Now Pay Later,20863,20,8,46,Salaried,631672,18.1,C,FCT,Web,Approved,
+LN00034,APP9486,25/08/2024,Salary Advance,21331,30,8.2,54,Informal Trader,343037,42.7,E,Kaduna,USSD,Declined,High DTI
+LN00035,APP9976,16/08/2024,Buy Now Pay Later,26368,29,6.2,38,Informal Trader,323311,36.7,B,Kaduna,Mobile App,Approved,
+LN00036,APP5451,20/06/2024,Salary Advance,40399,30,6,30,Salaried,568691,13.5,B,Kaduna,Mobile App,Approved,
+LN00037,APP7883,18/07/2024,Buy Now Pay Later,21139,14,9,45,Informal Trader,300074,10.3,B,Enugu,Web,Declined,Incomplete Docs
+LN00038,APP9818,06/10/2024,SME Loan,2350012,304,15.5,22,Self-Employed,915492,28.5,C,Enugu,USSD,Declined,High DTI
+LN00039,APP9751,14/01/2024,Buy Now Pay Later,21395,14,3.6,50,Self-Employed,481113,12.8,B,Rivers,Mobile App,Approved,
+LN00040,APP7211,22/05/2024,SME Loan,4036342,244,25.4,55,Self-Employed,209231,65,B,FCT,Web,Declined,High DTI
+LN00041,APP1508,06/05/2024,Salary Advance,6335,30,6.7,28,Self-Employed,1282729,62.1,C,Ogun,Web,Approved,
+LN00042,APP2876,24/03/2024,Buy Now Pay Later,5542,14,9.5,45,Self-Employed,931844,61.8,A,Rivers,Mobile App,Declined,High DTI
+LN00043,APP2983,16/10/2024,SME Loan,3412556,316,18.9,53,Salaried,835613,10.7,B,Kaduna,Mobile App,Declined,Incomplete Docs
+LN00044,APP3506,10/08/2024,Salary Advance,39193,30,9.3,25,Student,70931,34,C,Ogun,Mobile App,Approved,
+LN00045,APP2419,22/05/2024,Buy Now Pay Later,9990,28,7,42,Self-Employed,160188,37.2,B,Kaduna,Mobile App,Pending,
+LN00046,APP6576,23/05/2024,Buy Now Pay Later,24976,22,6.9,33,Self-Employed,279543,23.3,B,Rivers,USSD,Approved,
+LN00047,APP9041,17/08/2024,SME Loan,1280588,255,15.5,40,Self-Employed,1492425,42,C,Oyo,Mobile App,Declined,High DTI
+LN00048,APP6419,29/06/2024,SME Loan,2772611,258,16,33,Salaried,781752,16.6,C,Kano,Mobile App,Declined,Insufficient Income
+LN00049,APP9595,01/11/2024,Salary Advance,11588,30,7.1,40,Salaried,149671,48.9,A,Lagos,Agent,Approved,
+LN00050,APP3068,22/11/2024,Buy Now Pay Later,18085,17,9.1,51,Self-Employed,1103936,34.2,A,Lagos,Mobile App,Approved,
+LN00051,APP2869,03/02/2024,Personal Loan,88840,163,17.6,30,Salaried,757189,14.7,B,Enugu,USSD,Pending,
+LN00052,APP4697,24/09/2024,Personal Loan,282113,128,20.3,22,Student,84531,44.2,C,FCT,Agent,Approved,
+LN00053,APP4457,15/05/2024,SME Loan,1817490,241,14.8,21,Salaried,976723,34.8,C,Ogun,Mobile App,Approved,
+LN00054,APP5632,25/12/2024,Buy Now Pay Later,4332,21,9.5,58,Informal Trader,396650,54.2,A,FCT,Mobile App,Approved,
+LN00055,APP5352,13/03/2024,Salary Advance,15873,30,9.2,39,Informal Trader,280242,16.8,C,Enugu,Agent,Approved,
+LN00056,APP9090,12/08/2024,Salary Advance,7612,30,10.1,22,Self-Employed,291526,22.6,C,Lagos,Agent,Declined,Insufficient Income
+LN00057,APP1659,30/03/2024,Personal Loan,391578,146,21,58,Salaried,1034117,44.9,C,FCT,Mobile App,Pending,
+LN00058,APP6260,09/12/2024,Salary Advance,15539,30,7.9,46,Self-Employed,1806171,51.8,A,FCT,Mobile App,Approved,
+LN00059,APP7622,20/09/2024,Buy Now Pay Later,2037,28,5.9,44,Salaried,1165415,44.4,D,Rivers,Mobile App,Pending,
+LN00060,APP5719,12/08/2024,Buy Now Pay Later,17883,17,3.2,36,Self-Employed,1588522,18.7,C,Enugu,Mobile App,Declined,Low Credit Score
+LN00061,APP8560,01/03/2024,Personal Loan,130725,153,21.2,38,Salaried,991346,55.9,E,Rivers,Mobile App,Declined,Low Credit Score
+LN00062,APP9327,10/03/2024,Buy Now Pay Later,11052,27,5.4,38,Informal Trader,51344,25.6,B,Kaduna,Web,Approved,
+LN00063,APP8935,25/06/2024,Salary Advance,40614,30,8.2,33,Salaried,620811,41.4,B,Enugu,Mobile App,Declined,High DTI
+LN00064,APP7246,16/07/2024,Buy Now Pay Later,27965,18,6.5,53,Salaried,816243,57.8,D,Kaduna,Mobile App,Declined,Low Credit Score
+LN00065,APP3361,28/07/2024,Buy Now Pay Later,7058,16,6.3,23,Student,91691,48.1,C,Oyo,Web,Declined,High DTI
+LN00066,APP7226,11/06/2024,Personal Loan,448145,152,20.5,25,Salaried,612348,44.7,E,Rivers,USSD,Declined,Low Credit Score
+LN00067,APP2646,15/08/2024,Salary Advance,24625,30,5.3,39,Informal Trader,237938,30.6,A,Enugu,USSD,Approved,
+LN00068,APP3785,30/03/2024,Salary Advance,30070,30,8.5,35,Self-Employed,1067101,45.1,C,Lagos,Web,Declined,High DTI
+LN00069,APP5712,12/12/2024,Personal Loan,88724,146,21.3,22,Student,93746,62.9,C,Kaduna,Web,Approved,
+LN00070,APP7302,04/09/2024,Salary Advance,29993,30,9,22,Student,12875,63.8,C,Ogun,Mobile App,Declined,High DTI
+LN00071,APP1803,06/11/2024,SME Loan,2900770,238,21.7,33,Salaried,645602,47.3,C,Kano,USSD,Declined,High DTI
+LN00072,APP1645,07/06/2024,SME Loan,779881,328,17.8,39,Salaried,805179,51.1,A,Kano,Web,Declined,High DTI
+LN00073,APP6994,28/09/2024,Personal Loan,192882,111,13.1,51,Informal Trader,204739,51.1,B,FCT,Mobile App,Approved,
+LN00074,APP4696,12/12/2024,SME Loan,3833729,322,17.9,21,Informal Trader,188652,39.5,C,Ogun,USSD,Declined,Insufficient Income
+LN00075,APP2775,11/12/2024,Salary Advance,6640,30,11.4,25,Salaried,1093639,60,B,Enugu,Mobile App,Approved,
+LN00076,APP1609,04/06/2024,Buy Now Pay Later,5805,17,4.6,45,Self-Employed,1051359,30.4,E,Enugu,USSD,Declined,High DTI
+LN00077,APP2622,07/09/2024,Personal Loan,196664,94,18.3,49,Salaried,615164,57,A,Oyo,Mobile App,Declined,High DTI
+LN00078,APP6876,01/02/2024,Personal Loan,149514,105,21.4,26,Informal Trader,397481,21.7,C,Lagos,Mobile App,Approved,
+LN00079,APP3063,16/10/2024,Salary Advance,41320,30,9.1,35,Informal Trader,222259,52.6,D,Lagos,Mobile App,Declined,Low Credit Score
+LN00080,APP9850,08/05/2024,SME Loan,1422129,349,25.9,43,Salaried,618978,42.4,A,Ogun,Mobile App,Pending,
+LN00081,APP9619,28/02/2024,SME Loan,4495040,294,24.4,27,Self-Employed,1047924,37.7,E,Lagos,USSD,Declined,High DTI
+LN00082,APP8504,25/11/2024,Buy Now Pay Later,3993,29,8.9,27,Self-Employed,1128168,49.2,B,FCT,Mobile App,Approved,
+LN00083,APP3067,20/05/2024,Personal Loan,356899,160,18.5,54,Salaried,738445,35,C,FCT,Web,Approved,
+LN00084,APP4522,08/08/2024,Personal Loan,169796,142,14.1,47,Self-Employed,1630108,15.2,B,Ogun,Mobile App,Approved,
+LN00085,APP8770,04/02/2024,Salary Advance,10594,30,8,44,Informal Trader,118217,40.6,C,Oyo,USSD,Pending,
+LN00086,APP7929,27/01/2024,Buy Now Pay Later,21674,23,5.5,34,Self-Employed,424492,46.1,B,FCT,Mobile App,Pending,
+LN00087,APP2882,22/05/2024,Personal Loan,473216,144,20.1,27,Student,90422,47.1,C,Ogun,Mobile App,Approved,
+LN00088,APP6062,22/06/2024,Personal Loan,145108,108,16.8,30,Self-Employed,1653924,44.8,A,Rivers,Mobile App,Approved,
+LN00089,APP3578,08/07/2024,Salary Advance,26258,30,11.2,24,Salaried,291088,25,C,Kaduna,USSD,Approved,
+LN00090,APP4531,19/09/2024,Salary Advance,33174,30,7,52,Self-Employed,1205060,46.7,A,Enugu,Agent,Approved,
+LN00091,APP4349,03/06/2024,Buy Now Pay Later,27144,18,8.3,28,Salaried,136210,37.4,B,Kano,Mobile App,Approved,
+LN00092,APP9196,13/10/2024,Buy Now Pay Later,28417,25,3.5,23,Informal Trader,278704,11,E,Oyo,USSD,Declined,High DTI
+LN00093,APP5743,28/02/2024,Personal Loan,220272,111,19.6,44,Self-Employed,284821,34,A,Enugu,USSD,Approved,
+LN00094,APP7484,07/06/2024,SME Loan,2358681,265,24.5,28,Salaried,1189446,20.7,D,Oyo,USSD,Declined,Low Credit Score
+LN00095,APP4871,22/02/2024,Salary Advance,17928,30,9.2,25,Informal Trader,142875,62.3,C,Kaduna,Web,Declined,High DTI
+LN00096,APP8354,14/12/2024,Buy Now Pay Later,20497,24,9,30,Self-Employed,1022249,13.8,B,Ogun,Web,Approved,
+LN00097,APP6766,16/09/2024,Salary Advance,35260,30,5.3,39,Salaried,280916,45.5,E,FCT,USSD,Declined,High DTI
+LN00098,APP1672,18/08/2024,Buy Now Pay Later,20732,20,5.3,30,Self-Employed,229758,34.8,D,Oyo,Agent,Approved,
+LN00099,APP3827,21/01/2024,Salary Advance,33688,30,8.7,44,Self-Employed,881927,60.5,B,Oyo,USSD,Approved,
+LN00100,APP6482,03/02/2024,Salary Advance,41566,30,7,30,Informal Trader,224777,14.5,C,Oyo,Mobile App,Declined,Incomplete Docs
+LN00101,APP3112,31/10/2024,SME Loan,1210674,259,20.9,42,Self-Employed,1805372,17,C,FCT,USSD,Approved,
+LN00102,APP6928,10/01/2024,Personal Loan,144509,117,14.1,33,Informal Trader,168773,65,A,Ogun,Web,Approved,
+LN00103,APP9843,26/09/2024,Salary Advance,27070,30,9.2,32,Salaried,467160,49.7,A,Oyo,USSD,Approved,
+LN00104,APP8277,08/11/2024,Salary Advance,34420,30,8.7,51,Salaried,526881,30.2,E,Kaduna,Mobile App,Declined,High DTI
+LN00105,APP9239,27/09/2024,Personal Loan,134965,115,19.6,37,Salaried,229428,45.3,D,FCT,USSD,Declined,Low Credit Score
+LN00106,APP5670,12/02/2024,SME Loan,2788339,295,26.5,48,Salaried,312337,62.1,B,Kaduna,Web,Declined,High DTI
+LN00107,APP7797,28/01/2024,Personal Loan,246063,120,14.6,35,Salaried,179113,27.5,A,Oyo,Web,Approved,
+LN00108,APP5700,29/08/2024,SME Loan,1664277,360,19.5,26,Self-Employed,139854,24.1,D,Enugu,Mobile App,Approved,
+LN00109,APP5934,03/03/2024,Salary Advance,32513,30,5.4,52,Informal Trader,362863,39.5,C,Rivers,USSD,Approved,
+LN00110,APP1025,10/11/2024,Personal Loan,349192,143,12.2,54,Self-Employed,856240,13.7,C,Lagos,Mobile App,Approved,
+LN00111,APP7338,10/07/2024,Salary Advance,6064,30,10.5,27,Salaried,817342,17.3,B,Oyo,Web,Approved,
+LN00112,APP8612,22/12/2024,Personal Loan,145566,107,10.8,50,Informal Trader,69390,26.1,A,Rivers,Web,Approved,
+LN00113,APP6080,20/09/2024,Personal Loan,477507,159,15.7,33,Salaried,720018,29.6,D,Oyo,Mobile App,Declined,High DTI
+LN00114,APP7553,13/08/2024,Buy Now Pay Later,14669,24,9.8,52,Self-Employed,870382,60.8,C,FCT,USSD,Approved,
+LN00115,APP3956,06/10/2024,Salary Advance,11723,30,7.3,49,Salaried,1013630,19.2,B,Kaduna,Mobile App,Declined,Insufficient Income
+LN00116,APP8126,20/05/2024,Personal Loan,464962,97,10.9,44,Self-Employed,1176019,54.1,C,Lagos,Mobile App,Declined,High DTI
+LN00117,APP8179,18/01/2024,Salary Advance,20466,30,7.5,18,Student,89310,18.4,B,Oyo,Mobile App,Pending,
+LN00118,APP3255,28/09/2024,Personal Loan,214828,173,13.3,18,Student,106426,20.2,C,FCT,Mobile App,Approved,
+LN00119,APP8311,19/04/2024,Buy Now Pay Later,11357,29,4.4,25,Salaried,1068002,19.5,C,FCT,Web,Declined,Insufficient Income
+LN00120,APP6692,29/12/2024,Salary Advance,40531,30,11.2,32,Informal Trader,239526,38,A,Rivers,Web,Approved,
+LN00121,APP9094,14/01/2024,Personal Loan,350038,137,15.6,20,Student,90209,58.6,A,Enugu,Agent,Pending,
+LN00122,APP9612,29/07/2024,SME Loan,1118665,212,27.6,49,Self-Employed,1076923,47.4,B,Kano,Web,Approved,
+LN00123,APP9238,29/01/2024,Buy Now Pay Later,18977,18,5.1,35,Salaried,845662,62.1,C,Ogun,Web,Approved,
+LN00124,APP5496,05/03/2024,Personal Loan,372137,158,11.1,58,Self-Employed,1317703,18.5,C,Oyo,Web,Pending,
+LN00125,APP1464,11/02/2024,Salary Advance,47038,30,9.6,47,Informal Trader,374066,45.1,C,Ogun,USSD,Approved,
+LN00126,APP5012,16/12/2024,Personal Loan,287787,99,18.3,47,Salaried,1135548,35.5,B,Kano,Mobile App,Approved,
+LN00127,APP6658,23/07/2024,Salary Advance,29283,30,7.2,38,Self-Employed,1042871,23.6,A,Ogun,Agent,Approved,
+LN00128,APP7850,07/05/2024,Buy Now Pay Later,7233,24,9.5,33,Informal Trader,133541,37.4,C,Kaduna,Web,Approved,
+LN00129,APP2475,20/07/2024,Personal Loan,176211,117,17,39,Salaried,1157868,42.9,D,Kaduna,Mobile App,Approved,
+LN00130,APP2761,08/08/2024,Salary Advance,22332,30,10.3,46,Salaried,227285,41.4,A,Ogun,Mobile App,Approved,
+LN00131,APP5582,15/11/2024,SME Loan,1496659,212,27.6,42,Salaried,886732,51.5,A,Enugu,Mobile App,Approved,
+LN00132,APP3245,19/06/2024,Buy Now Pay Later,19017,28,4,29,Informal Trader,221948,61.2,B,Enugu,Agent,Declined,High DTI
+LN00133,APP5902,30/10/2024,Salary Advance,38404,30,10,22,Salaried,892502,28.2,A,Enugu,USSD,Approved,
+LN00134,APP1436,01/11/2024,Personal Loan,393718,164,16.9,58,Informal Trader,301893,19.4,C,Enugu,Mobile App,Declined,Low Credit Score
+LN00135,APP2800,07/04/2024,Salary Advance,25558,30,6.1,47,Self-Employed,1152391,52.6,E,Lagos,USSD,Declined,High DTI
+LN00136,APP8837,26/09/2024,Personal Loan,140797,148,20.9,43,Salaried,674407,43.6,A,Rivers,Mobile App,Approved,
+LN00137,APP5876,27/05/2024,SME Loan,4602055,261,19.7,38,Self-Employed,703538,16.7,C,Enugu,Web,Approved,
+LN00138,APP6654,15/03/2024,Salary Advance,23850,30,7.4,37,Self-Employed,1667282,36.3,B,Ogun,Agent,Approved,
+LN00139,APP3249,25/02/2024,Personal Loan,357668,120,12.9,54,Self-Employed,573267,45.1,A,Enugu,Mobile App,Approved,
+LN00140,APP3252,03/01/2024,Buy Now Pay Later,7175,27,7.6,51,Informal Trader,300320,45.8,D,Ogun,Mobile App,Declined,Low Credit Score
+LN00141,APP4804,30/09/2024,SME Loan,812880,224,18.7,23,Informal Trader,258139,53.3,A,Ogun,Web,Approved,
+LN00142,APP2758,20/06/2024,Salary Advance,47029,30,11.2,53,Salaried,1101510,25,D,Oyo,Mobile App,Declined,High DTI
+LN00143,APP4050,08/01/2024,SME Loan,2974842,325,22.8,46,Salaried,1016958,38.3,A,FCT,Mobile App,Approved,
+LN00144,APP6301,07/05/2024,Salary Advance,30137,30,8.1,42,Salaried,753226,42,C,Ogun,USSD,Declined,High DTI
+LN00145,APP2017,07/12/2024,Salary Advance,25106,30,7.8,40,Self-Employed,1547643,16.5,E,Ogun,Mobile App,Declined,Low Credit Score
+LN00146,APP8834,19/03/2024,Personal Loan,367581,137,15,51,Self-Employed,1688279,39.6,C,Rivers,Web,Declined,Low Credit Score
+LN00147,APP9609,16/08/2024,Personal Loan,239679,99,21,56,Salaried,1180083,21.1,C,Kano,Mobile App,Approved,
+LN00148,APP2904,14/12/2024,Salary Advance,43217,30,5.6,24,Self-Employed,1050916,17.3,B,Lagos,USSD,Approved,
+LN00149,APP6049,12/01/2024,Personal Loan,478056,90,18.9,23,Self-Employed,988557,28.9,A,Lagos,Agent,Approved,
+LN00150,APP8734,17/01/2024,Salary Advance,16795,30,10.4,28,Student,65097,30.6,D,Kaduna,Web,Declined,High DTI
+LN00151,APP2314,15/12/2024,Buy Now Pay Later,19671,18,7.6,32,Salaried,944303,39.1,C,Rivers,Web,Declined,Insufficient Income
+LN00152,APP8585,10/12/2024,SME Loan,4057843,316,18.1,50,Salaried,845949,18.5,A,FCT,Mobile App,Approved,
+LN00153,APP1256,03/05/2024,Salary Advance,11612,30,8.1,24,Self-Employed,613244,50.7,B,Rivers,Mobile App,Declined,High DTI
+LN00154,APP1924,12/03/2024,Personal Loan,201657,119,19.8,41,Informal Trader,352763,42.9,C,Oyo,Mobile App,Declined,High DTI
+LN00155,APP9540,23/04/2024,Personal Loan,194259,97,16.7,32,Self-Employed,1412802,47.3,C,Lagos,Agent,Declined,High DTI
+LN00156,APP7244,25/09/2024,Salary Advance,32284,30,6,55,Salaried,1113040,23.3,B,Kano,Web,Declined,Incomplete Docs
+LN00157,APP7824,12/10/2024,Personal Loan,253643,121,13.1,26,Salaried,1063271,56.6,A,Rivers,Mobile App,Approved,
+LN00158,APP1647,07/02/2024,Salary Advance,43507,30,8.4,42,Informal Trader,208957,62.6,A,Rivers,Agent,Approved,
+LN00159,APP8846,04/05/2024,SME Loan,2215580,281,26.6,39,Self-Employed,898305,35.6,C,Ogun,Mobile App,Approved,
+LN00160,APP9147,26/08/2024,Salary Advance,35768,30,11.4,47,Salaried,215872,40.9,B,Kano,Mobile App,Pending,
+LN00161,APP7841,31/05/2024,Salary Advance,26618,30,7.7,52,Informal Trader,338695,46,C,Ogun,Web,Declined,High DTI
+LN00162,APP9037,23/08/2024,Salary Advance,28080,30,6,32,Self-Employed,1965132,39.8,C,Lagos,Mobile App,Declined,Low Credit Score
+LN00163,APP1794,04/01/2024,Personal Loan,491736,170,12.8,21,Informal Trader,164672,37.8,B,Kaduna,USSD,Approved,
+LN00164,APP9719,09/10/2024,Personal Loan,58769,157,18.7,39,Self-Employed,135950,37.6,C,Enugu,Web,Declined,Low Credit Score
+LN00165,APP2578,25/09/2024,Salary Advance,17578,30,10.7,46,Salaried,285715,30.5,B,Rivers,Agent,Approved,
+LN00166,APP2320,30/11/2024,Buy Now Pay Later,23295,15,3.7,56,Salaried,1118255,13.1,A,Kano,Mobile App,Approved,
+LN00167,APP6427,16/10/2024,Buy Now Pay Later,5124,30,9.4,57,Salaried,1117196,24.9,E,Ogun,Web,Declined,Low Credit Score
+LN00168,APP3938,10/06/2024,Salary Advance,18576,30,10.3,46,Informal Trader,90337,26.5,C,Enugu,USSD,Approved,
+LN00169,APP7288,12/03/2024,SME Loan,1157899,308,23.9,27,Salaried,1036640,22.8,A,Enugu,Agent,Approved,
+LN00170,APP5478,18/08/2024,Personal Loan,236547,160,21.3,58,Self-Employed,1485529,30.9,D,Ogun,Web,Declined,Low Credit Score
+LN00171,APP5390,19/03/2024,Personal Loan,460984,171,11.9,44,Salaried,343453,15,E,Kaduna,Mobile App,Declined,Low Credit Score
+LN00172,APP2430,05/04/2024,Personal Loan,342020,161,16.1,26,Salaried,862212,40.5,C,Oyo,Web,Approved,
+LN00173,APP7779,17/07/2024,SME Loan,2536271,326,20.3,31,Self-Employed,391168,24.8,B,Kano,Mobile App,Approved,
+LN00174,APP7899,02/06/2024,Personal Loan,90328,136,13,52,Salaried,530094,35.2,A,Lagos,Agent,Approved,
+LN00175,APP7224,17/06/2024,Personal Loan,275766,173,21.7,41,Salaried,541216,36.3,A,Enugu,Agent,Approved,
+LN00176,APP9044,21/10/2024,SME Loan,3233731,276,16.5,44,Informal Trader,109710,61.3,A,Kano,USSD,Approved,
+LN00177,APP8563,28/12/2024,Salary Advance,24092,30,10.7,47,Informal Trader,311778,17.7,B,Ogun,USSD,Approved,
+LN00178,APP7176,07/02/2024,Personal Loan,363489,151,17,47,Self-Employed,1240106,12,E,FCT,Mobile App,Declined,High DTI
+LN00179,APP3725,27/11/2024,Personal Loan,345289,172,18.1,42,Salaried,1022730,15.8,A,Rivers,Mobile App,Approved,
+LN00180,APP4621,16/08/2024,Personal Loan,292778,176,17.1,43,Self-Employed,151511,36.6,B,FCT,Mobile App,Declined,High DTI
+LN00181,APP6707,08/06/2024,Salary Advance,18557,30,7.4,49,Salaried,788801,13.7,A,FCT,Mobile App,Approved,
+LN00182,APP2791,12/12/2024,Buy Now Pay Later,26264,21,6.6,42,Self-Employed,1274088,33.5,C,Enugu,USSD,Approved,
+LN00183,APP8080,21/07/2024,Salary Advance,45246,30,8.1,21,Self-Employed,1577937,21.8,B,FCT,USSD,Pending,
+LN00184,APP9796,05/04/2024,Personal Loan,153323,148,11.4,52,Self-Employed,1206698,63.1,B,Enugu,USSD,Pending,
+LN00185,APP6700,29/06/2024,Buy Now Pay Later,22229,19,8.7,40,Informal Trader,372166,42.5,C,Oyo,Mobile App,Approved,
+LN00186,APP3999,10/07/2024,SME Loan,4785109,279,18.7,45,Salaried,1007176,20.2,C,Kano,USSD,Approved,
+LN00187,APP3298,05/04/2024,Salary Advance,34556,30,11.1,25,Student,27895,20.7,B,Kaduna,Mobile App,Approved,
+LN00188,APP8272,07/09/2024,Salary Advance,42053,30,10.6,23,Salaried,696408,22.4,B,Kaduna,USSD,Pending,
+LN00189,APP9115,08/10/2024,Personal Loan,350267,104,13.2,44,Self-Employed,1236747,55.2,A,Kaduna,Mobile App,Declined,High DTI
+LN00190,APP2677,30/11/2024,SME Loan,2997363,188,19.2,26,Salaried,1040796,57.6,A,Rivers,Mobile App,Pending,
+LN00191,APP6744,29/12/2024,Personal Loan,274482,111,17.4,34,Informal Trader,81120,41.4,C,Kano,Mobile App,Declined,High DTI
+LN00192,APP5740,20/10/2024,Salary Advance,38712,30,5.9,47,Informal Trader,81082,64.6,D,Kano,USSD,Pending,
+LN00193,APP3396,30/12/2024,Salary Advance,21223,30,8.4,38,Self-Employed,1416618,32.8,C,FCT,Mobile App,Declined,Insufficient Income
+LN00194,APP8449,06/09/2024,Salary Advance,5162,30,10.1,43,Self-Employed,1882802,13.5,C,Rivers,Agent,Declined,Incomplete Docs
+LN00195,APP5399,14/06/2024,Buy Now Pay Later,13067,18,7,42,Self-Employed,1975178,47.5,A,FCT,USSD,Declined,High DTI
+LN00196,APP1266,04/03/2024,Buy Now Pay Later,7176,28,6.2,24,Student,36518,64.8,E,Ogun,Mobile App,Declined,High DTI
+LN00197,APP2529,01/12/2024,Personal Loan,93212,137,18,24,Self-Employed,931188,44.4,C,Rivers,Mobile App,Approved,
+LN00198,APP2559,01/01/2024,Salary Advance,10107,30,9.2,49,Self-Employed,119476,10.4,B,FCT,Agent,Approved,
+LN00199,APP3165,01/09/2024,Salary Advance,30104,30,10.1,41,Salaried,890832,58.5,A,Kano,USSD,Approved,
+LN00200,APP2120,28/09/2024,Personal Loan,369983,173,12,34,Salaried,437454,60.6,C,Kaduna,Web,Approved,
+LN00201,APP2646,12/03/2024,SME Loan,3721493,269,27.4,29,Salaried,639645,25.2,A,Ogun,Web,Approved,
+LN00202,APP5942,15/04/2024,Personal Loan,317136,114,19,24,Salaried,621934,37.2,A,Kaduna,USSD,Approved,
+LN00203,APP1197,03/07/2024,Buy Now Pay Later,6324,26,9,44,Self-Employed,1245792,47.6,D,FCT,Mobile App,Approved,
+LN00204,APP5295,20/04/2024,Salary Advance,8962,30,8.5,53,Self-Employed,1708746,32.8,C,FCT,USSD,Approved,
+LN00205,APP3501,22/05/2024,Salary Advance,10178,30,11.8,41,Salaried,939423,42.3,D,FCT,Mobile App,Declined,Low Credit Score
+LN00206,APP1948,05/05/2024,Salary Advance,33474,30,8.2,40,Self-Employed,1496870,50.8,C,FCT,Mobile App,Approved,
+LN00207,APP1185,24/03/2024,Personal Loan,231773,156,16.2,37,Informal Trader,137536,30.5,C,Ogun,USSD,Approved,
+LN00208,APP1480,20/06/2024,Buy Now Pay Later,10912,30,3.4,57,Informal Trader,379007,14.2,C,Oyo,Mobile App,Declined,High DTI
+LN00209,APP7024,21/03/2024,Salary Advance,11743,30,6.6,23,Self-Employed,1900801,57.5,B,Kaduna,Mobile App,Declined,High DTI
+LN00210,APP3932,19/01/2024,Personal Loan,424352,173,15,47,Salaried,790952,24.9,A,Oyo,Mobile App,Approved,
+LN00211,APP1862,01/04/2024,Salary Advance,38801,30,11.7,50,Salaried,712040,52.5,B,FCT,USSD,Approved,
+LN00212,APP4287,29/05/2024,Personal Loan,209336,169,12.9,52,Salaried,529830,50.3,C,Rivers,Mobile App,Declined,High DTI
+LN00213,APP1391,29/04/2024,Personal Loan,383416,178,20.5,18,Student,109474,46.2,D,Ogun,Mobile App,Declined,Low Credit Score
+LN00214,APP7878,08/09/2024,Buy Now Pay Later,6665,22,3.7,26,Student,64140,48.5,B,FCT,USSD,Approved,
+LN00215,APP7461,08/02/2024,Personal Loan,82654,145,17.9,39,Salaried,667337,56.8,E,Enugu,USSD,Declined,High DTI
+LN00216,APP8417,19/05/2024,Salary Advance,18284,30,10.5,30,Self-Employed,321580,19,C,Enugu,Mobile App,Approved,
+LN00217,APP4401,19/08/2024,Salary Advance,22367,30,5.6,40,Informal Trader,366304,12.2,D,Oyo,Mobile App,Declined,High DTI
+LN00218,APP7492,19/09/2024,Salary Advance,24584,30,10.7,46,Salaried,1068334,40.6,C,FCT,Mobile App,Declined,High DTI
+LN00219,APP3290,03/03/2024,Salary Advance,19567,30,6.4,26,Self-Employed,1321221,42.2,E,FCT,Mobile App,Pending,
+LN00220,APP8265,06/03/2024,Salary Advance,26728,30,5.3,31,Self-Employed,1303522,33.8,C,Kaduna,Mobile App,Declined,High DTI
+LN00221,APP6799,19/04/2024,Buy Now Pay Later,11010,22,6.1,36,Salaried,738880,37.4,D,Kaduna,Mobile App,Approved,
+LN00222,APP3248,02/08/2024,Salary Advance,39459,30,9.4,22,Informal Trader,250539,53,B,Kaduna,Mobile App,Pending,
+LN00223,APP6269,17/07/2024,Salary Advance,6708,30,9.2,38,Salaried,242874,54.5,C,Oyo,Web,Declined,High DTI
+LN00224,APP3615,21/02/2024,Salary Advance,20804,30,8.7,24,Informal Trader,165034,41.7,E,Enugu,Mobile App,Declined,Low Credit Score
+LN00225,APP3885,01/05/2024,Personal Loan,472686,179,14.3,43,Self-Employed,1290451,41,C,Rivers,Web,Declined,High DTI
+LN00226,APP9064,04/10/2024,Salary Advance,37141,30,5.6,35,Salaried,161792,39,A,Rivers,Web,Approved,
+LN00227,APP3907,14/06/2024,Salary Advance,14680,30,10.4,44,Informal Trader,88027,30.5,E,Enugu,USSD,Declined,High DTI
+LN00228,APP3235,21/03/2024,SME Loan,4164717,343,27.4,32,Self-Employed,1583070,63.3,C,Oyo,Mobile App,Declined,High DTI
+LN00229,APP3872,12/07/2024,Salary Advance,24301,30,6.2,57,Salaried,941247,56.8,D,Lagos,Mobile App,Declined,Low Credit Score
+LN00230,APP2705,11/09/2024,Salary Advance,10099,30,7.4,26,Salaried,824117,34.6,B,Rivers,USSD,Approved,
+LN00231,APP2770,01/01/2024,Salary Advance,33719,30,11.8,52,Informal Trader,248554,29.3,B,Kaduna,Web,Approved,
+LN00232,APP4695,24/03/2024,Personal Loan,469008,94,13.5,27,Salaried,275609,28.8,D,Kano,USSD,Declined,Low Credit Score
+LN00233,APP6536,31/10/2024,Buy Now Pay Later,17818,14,6,48,Self-Employed,429470,12.9,B,Rivers,Mobile App,Approved,
+LN00234,APP9849,15/05/2024,SME Loan,2994777,240,13.5,56,Salaried,1149593,18.4,B,Enugu,Mobile App,Declined,Incomplete Docs
+LN00235,APP4271,19/02/2024,Salary Advance,16195,30,11.8,28,Self-Employed,746663,53.2,C,Ogun,Mobile App,Declined,High DTI
+LN00236,APP4029,08/07/2024,Buy Now Pay Later,14104,19,6.1,50,Salaried,672391,22.4,B,Lagos,Mobile App,Approved,
+LN00237,APP2584,13/02/2024,SME Loan,3972771,330,15.6,45,Salaried,997935,63.1,C,Kaduna,USSD,Approved,
+LN00238,APP5896,10/02/2024,Personal Loan,497710,94,16,27,Student,98805,64.1,A,Kaduna,Mobile App,Declined,High DTI
+LN00239,APP4471,08/04/2024,Salary Advance,32746,30,11.9,30,Self-Employed,1849251,42.7,B,FCT,Mobile App,Pending,
+LN00240,APP6343,21/05/2024,Personal Loan,56482,179,17.5,47,Self-Employed,335969,32.8,A,FCT,Agent,Approved,
+LN00241,APP2654,26/05/2024,Buy Now Pay Later,13267,27,4.8,57,Self-Employed,1377086,36,A,Enugu,Mobile App,Approved,
+LN00242,APP7581,20/01/2024,Personal Loan,223798,178,12.9,38,Informal Trader,245266,11.1,D,Ogun,Mobile App,Declined,Low Credit Score
+LN00243,APP4734,09/03/2024,Salary Advance,34039,30,6.9,26,Self-Employed,494129,34.3,E,Enugu,USSD,Declined,High DTI
+LN00244,APP1920,20/09/2024,SME Loan,1050435,259,23.4,54,Self-Employed,1944094,41.3,A,Rivers,Web,Approved,
+LN00245,APP8478,26/01/2024,Buy Now Pay Later,25089,20,4.9,53,Informal Trader,258112,44.9,A,Lagos,Mobile App,Approved,
+LN00246,APP8308,31/03/2024,Buy Now Pay Later,17551,25,5.4,37,Informal Trader,97391,25.7,B,Kano,Web,Pending,
+LN00247,APP4511,23/04/2024,Personal Loan,405307,116,13.2,22,Self-Employed,1913260,52.9,D,Lagos,Mobile App,Pending,
+LN00248,APP3837,03/11/2024,Buy Now Pay Later,9332,22,7.3,28,Student,46094,33.3,B,Oyo,Mobile App,Approved,
+LN00249,APP5950,12/12/2024,Personal Loan,376949,140,17,44,Salaried,712816,26.4,A,FCT,Mobile App,Approved,
+LN00250,APP6327,21/05/2024,Salary Advance,47694,30,6.3,36,Self-Employed,1986780,13.1,D,Enugu,USSD,Declined,Low Credit Score
+LN00251,APP9148,31/05/2024,Salary Advance,32431,30,7.7,57,Salaried,518280,28.9,C,Kaduna,Agent,Declined,Insufficient Income
+LN00252,APP3785,02/12/2024,Buy Now Pay Later,7935,23,3.7,37,Salaried,503922,62.1,D,FCT,Mobile App,Declined,High DTI
+LN00253,APP7889,18/06/2024,Personal Loan,357007,127,15.6,24,Salaried,269350,36,A,FCT,Web,Approved,
+LN00254,APP5888,30/07/2024,Salary Advance,14881,30,11.9,57,Salaried,1079596,17.9,D,Kano,Web,Declined,Low Credit Score
+LN00255,APP6134,20/11/2024,Salary Advance,34625,30,6.5,57,Informal Trader,133065,36.9,D,FCT,Mobile App,Declined,High DTI
+LN00256,APP7609,07/08/2024,Buy Now Pay Later,14560,14,3.3,44,Salaried,149521,59.1,D,Rivers,Mobile App,Approved,
+LN00257,APP5076,25/04/2024,SME Loan,3388615,259,14.1,58,Salaried,761969,19.2,D,Ogun,Agent,Declined,High DTI
+LN00258,APP8105,17/12/2024,Buy Now Pay Later,13230,29,5.5,46,Salaried,160107,22.6,C,Kano,Mobile App,Approved,
+LN00259,APP9267,27/03/2024,Salary Advance,47633,30,7.6,55,Self-Employed,1406808,12.7,E,FCT,USSD,Approved,
+LN00260,APP2897,01/08/2024,Personal Loan,114799,160,13,34,Informal Trader,380464,10.5,B,FCT,USSD,Approved,
+LN00261,APP3247,02/08/2024,Buy Now Pay Later,5437,30,8,28,Salaried,342851,37.4,C,Ogun,Web,Declined,Insufficient Income
+LN00262,APP7713,31/05/2024,Salary Advance,40922,30,11.4,51,Self-Employed,793326,22.9,A,FCT,Agent,Approved,
+LN00263,APP9095,17/03/2024,Buy Now Pay Later,27543,30,3.5,37,Informal Trader,387818,22.7,E,Ogun,Mobile App,Approved,
+LN00264,APP3862,21/01/2024,Buy Now Pay Later,13803,24,6,23,Salaried,140284,56.9,C,Kano,Mobile App,Declined,High DTI
+LN00265,APP5395,17/02/2024,Personal Loan,229685,113,11.4,50,Self-Employed,670075,56,C,Kaduna,Web,Declined,High DTI
+LN00266,APP3732,27/02/2024,Salary Advance,8843,30,5.7,25,Student,115154,41.3,B,Enugu,Web,Pending,
+LN00267,APP3140,04/09/2024,Buy Now Pay Later,5700,27,6.1,41,Salaried,145921,48.8,C,Rivers,Agent,Declined,High DTI
+LN00268,APP6542,22/09/2024,Personal Loan,417305,169,11.1,36,Self-Employed,1110679,29,C,Enugu,Mobile App,Declined,Low Credit Score
+LN00269,APP1190,25/11/2024,Buy Now Pay Later,18566,29,9,25,Informal Trader,307765,27.6,B,Ogun,Mobile App,Approved,
+LN00270,APP7203,25/07/2024,Buy Now Pay Later,4583,28,6.1,26,Self-Employed,1896397,37.4,B,Kaduna,USSD,Approved,
+LN00271,APP7609,30/07/2024,Salary Advance,40985,30,10.8,40,Informal Trader,316515,40.9,C,Kaduna,Agent,Pending,
+LN00272,APP1889,24/04/2024,Buy Now Pay Later,12878,29,8,49,Salaried,359124,15.4,C,Lagos,Mobile App,Declined,Insufficient Income
+LN00273,APP9973,24/09/2024,Personal Loan,105743,95,20.8,47,Self-Employed,324314,24,A,FCT,Agent,Approved,
+LN00274,APP8488,07/04/2024,SME Loan,1404004,286,12.7,58,Self-Employed,358409,52.5,C,Kano,Agent,Approved,
+LN00275,APP1795,10/10/2024,Buy Now Pay Later,29486,29,9.5,32,Informal Trader,353329,19.6,D,FCT,Mobile App,Declined,High DTI
+LN00276,APP9259,15/07/2024,Personal Loan,369288,178,19.1,42,Salaried,736926,34.9,A,Enugu,USSD,Approved,
+LN00277,APP9393,02/06/2024,Buy Now Pay Later,19950,24,8,28,Student,38487,21,C,Ogun,USSD,Declined,Insufficient Income
+LN00278,APP3173,29/12/2024,SME Loan,1991601,308,20.7,28,Self-Employed,1695460,29.4,C,Enugu,USSD,Declined,Insufficient Income
+LN00279,APP7920,07/01/2024,Personal Loan,63249,138,11.7,33,Self-Employed,659894,51.3,A,Ogun,USSD,Approved,
+LN00280,APP2016,19/12/2024,SME Loan,2211283,318,12.5,27,Informal Trader,373018,57.7,C,Rivers,USSD,Declined,High DTI
+LN00281,APP4892,18/09/2024,SME Loan,2912887,357,22.6,24,Student,64600,62.6,E,Oyo,Agent,Pending,
+LN00282,APP5117,13/04/2024,Personal Loan,459429,146,20,28,Student,58200,51.5,C,Rivers,Web,Declined,High DTI
+LN00283,APP5819,17/08/2024,Salary Advance,49738,30,6.3,53,Salaried,370303,30.7,B,Ogun,Mobile App,Approved,
+LN00284,APP5178,03/01/2024,Salary Advance,15145,30,6.1,24,Salaried,751567,37,C,Oyo,Mobile App,Declined,High DTI
+LN00285,APP4012,23/09/2024,Salary Advance,38104,30,7.9,26,Self-Employed,832751,22.2,B,Oyo,Mobile App,Approved,
+LN00286,APP9691,31/08/2024,Buy Now Pay Later,28990,14,3.8,36,Salaried,631342,62.7,C,Oyo,Mobile App,Declined,High DTI
+LN00287,APP2857,16/07/2024,Salary Advance,23535,30,11.4,44,Informal Trader,319646,54.2,B,Lagos,Mobile App,Declined,High DTI
+LN00288,APP6248,20/09/2024,Salary Advance,11288,30,11.8,55,Informal Trader,53843,44.5,B,Rivers,Web,Approved,
+LN00289,APP2702,15/04/2024,Personal Loan,418439,145,17.8,28,Student,30152,11.3,C,Lagos,Mobile App,Approved,
+LN00290,APP5127,12/10/2024,Salary Advance,19918,30,7.9,46,Self-Employed,1008119,27.4,B,FCT,Mobile App,Approved,
+LN00291,APP2036,26/10/2024,Salary Advance,9757,30,11.5,40,Salaried,301414,25.5,E,Enugu,Mobile App,Declined,High DTI
+LN00292,APP3561,30/09/2024,Salary Advance,30624,30,11.7,44,Salaried,143383,40.4,C,FCT,Mobile App,Declined,High DTI
+LN00293,APP7456,02/10/2024,Personal Loan,94630,129,12.5,43,Informal Trader,161011,32.7,C,Kano,Mobile App,Approved,
+LN00294,APP5140,09/04/2024,Salary Advance,48973,30,11,26,Student,70458,45.5,A,FCT,Mobile App,Approved,
+LN00295,APP8982,18/06/2024,Personal Loan,401952,173,12.8,25,Salaried,525795,27.5,C,Ogun,USSD,Approved,
+LN00296,APP6971,10/06/2024,Buy Now Pay Later,7525,14,5.2,48,Informal Trader,195059,56.2,A,Oyo,Web,Approved,
+LN00297,APP6877,05/06/2024,Personal Loan,107059,112,17.7,38,Salaried,413604,59,A,FCT,USSD,Declined,High DTI
+LN00298,APP9309,19/11/2024,Salary Advance,43134,30,10.4,23,Salaried,666552,39.9,E,Kaduna,USSD,Pending,
+LN00299,APP7430,24/04/2024,Buy Now Pay Later,21320,23,3.9,26,Self-Employed,932118,30,A,Rivers,Web,Approved,
+LN00300,APP3717,20/09/2024,Salary Advance,15434,30,9,30,Self-Employed,1643335,50.3,E,Lagos,Mobile App,Declined,Low Credit Score
+LN00301,APP5331,08/07/2024,Salary Advance,48816,30,8.6,45,Informal Trader,296244,60.5,D,Lagos,Agent,Declined,High DTI
+LN00302,APP5314,23/10/2024,Personal Loan,141147,138,17.8,25,Salaried,647614,30.7,E,Enugu,Mobile App,Declined,High DTI
+LN00303,APP8898,05/11/2024,Salary Advance,14107,30,6.2,38,Salaried,563583,18.3,A,FCT,USSD,Approved,
+LN00304,APP6410,28/02/2024,Personal Loan,301036,151,12.5,47,Salaried,167072,23.4,A,Kano,Mobile App,Approved,
+LN00305,APP3406,29/01/2024,Salary Advance,16798,30,9.2,22,Self-Employed,1942366,49.6,C,Ogun,Agent,Approved,
+LN00306,APP8723,03/09/2024,Salary Advance,31920,30,10.6,32,Informal Trader,376742,46.3,B,Oyo,Agent,Pending,
+LN00307,APP2127,27/04/2024,Personal Loan,119317,103,10.2,53,Self-Employed,1535223,33.1,A,FCT,Mobile App,Pending,
+LN00308,APP1639,29/09/2024,Personal Loan,111612,101,15.8,55,Salaried,122517,59.3,D,Enugu,Mobile App,Declined,Low Credit Score
+LN00309,APP9680,07/08/2024,Salary Advance,36596,30,7.5,57,Informal Trader,101231,33.4,B,Rivers,Agent,Approved,
+LN00310,APP9908,28/07/2024,Salary Advance,5358,30,9,21,Salaried,906494,46,C,Oyo,Mobile App,Approved,
+LN00311,APP7980,29/11/2024,Personal Loan,186997,158,15.1,38,Salaried,953521,51.5,B,Kaduna,Mobile App,Pending,
+LN00312,APP8925,09/05/2024,Buy Now Pay Later,20928,25,8.4,29,Salaried,369740,51.1,B,Kano,Mobile App,Approved,
+LN00313,APP6544,08/10/2024,Personal Loan,408908,180,10.6,21,Salaried,311026,55.3,C,Enugu,Mobile App,Approved,
+LN00314,APP7075,10/02/2024,Personal Loan,429843,139,21.2,54,Self-Employed,700769,49.1,C,Kano,USSD,Declined,High DTI
+LN00315,APP4304,02/12/2024,Buy Now Pay Later,18978,23,4.4,53,Informal Trader,320434,48.4,C,Lagos,Mobile App,Declined,High DTI
+LN00316,APP3579,14/02/2024,Buy Now Pay Later,27548,26,5.5,58,Salaried,540081,38.5,C,FCT,Agent,Approved,
+LN00317,APP6703,26/06/2024,Buy Now Pay Later,11060,21,7.2,46,Salaried,129754,24.4,B,FCT,USSD,Approved,
+LN00318,APP6570,29/02/2024,Buy Now Pay Later,10444,22,7.9,27,Student,73390,52.3,D,Kaduna,USSD,Declined,Low Credit Score
+LN00319,APP8896,29/02/2024,Salary Advance,30078,30,9.7,41,Salaried,984919,62.5,C,Lagos,USSD,Approved,
+LN00320,APP5706,17/02/2024,Personal Loan,442580,133,10.9,25,Student,51139,29.4,D,Ogun,Mobile App,Declined,Low Credit Score
+LN00321,APP9175,12/04/2024,Salary Advance,20863,30,6.4,36,Salaried,866643,18.6,A,FCT,USSD,Approved,
+LN00322,APP1108,04/10/2024,Buy Now Pay Later,29787,29,5.6,57,Salaried,696156,37,E,Ogun,Mobile App,Declined,Low Credit Score
+LN00323,APP1887,26/09/2024,SME Loan,4512439,318,12.5,32,Salaried,1078809,63.7,C,Kaduna,Mobile App,Approved,
+LN00324,APP4452,13/07/2024,Personal Loan,220622,136,17.4,56,Salaried,671234,23,C,Oyo,Mobile App,Approved,
+LN00325,APP4449,02/08/2024,SME Loan,3623159,273,25.7,32,Salaried,395018,63.9,C,FCT,USSD,Declined,High DTI
+LN00326,APP8081,14/07/2024,Salary Advance,14800,30,10.6,52,Salaried,402007,64.8,D,Oyo,Web,Declined,Low Credit Score
+LN00327,APP7527,20/02/2024,SME Loan,1003621,235,25,27,Self-Employed,1043413,51,B,Oyo,USSD,Declined,High DTI
+LN00328,APP5222,25/06/2024,Salary Advance,12945,30,11.1,21,Student,85609,41.7,C,Kano,Agent,Approved,
+LN00329,APP6326,10/12/2024,Personal Loan,456189,147,20.7,39,Salaried,1092558,44.7,A,Kano,USSD,Declined,High DTI
+LN00330,APP7911,19/11/2024,Personal Loan,262217,99,10.9,41,Salaried,784541,45.9,C,Enugu,Mobile App,Declined,High DTI
+LN00331,APP6950,27/10/2024,Personal Loan,286080,142,12,29,Informal Trader,173012,46.4,E,FCT,Mobile App,Declined,Low Credit Score
+LN00332,APP2045,30/08/2024,Personal Loan,63822,140,16.3,19,Student,44400,44,A,Enugu,Mobile App,Approved,
+LN00333,APP5655,14/08/2024,Personal Loan,118827,157,20.1,43,Salaried,801996,57.5,C,Ogun,Mobile App,Approved,
+LN00334,APP9835,31/03/2024,Personal Loan,289360,170,19,48,Informal Trader,324443,45.2,C,Oyo,Mobile App,Approved,
+LN00335,APP2467,14/08/2024,Salary Advance,32014,30,6.1,54,Salaried,405842,28.9,C,Lagos,USSD,Approved,
+LN00336,APP8816,02/06/2024,Salary Advance,33209,30,9.2,56,Informal Trader,245897,20.4,D,Enugu,Mobile App,Approved,
+LN00337,APP7385,12/07/2024,Salary Advance,10191,30,9.4,38,Self-Employed,697010,45.7,C,Ogun,Mobile App,Declined,High DTI
+LN00338,APP3988,10/03/2024,Salary Advance,46739,30,9.3,52,Salaried,513823,27.6,A,Lagos,Mobile App,Approved,
+LN00339,APP5410,05/03/2024,SME Loan,568820,239,13.4,34,Salaried,837043,33.1,D,Kaduna,Agent,Declined,Low Credit Score
+LN00340,APP6410,11/02/2024,Buy Now Pay Later,6787,15,4.9,55,Salaried,1105969,20,D,Ogun,Web,Declined,Low Credit Score
+LN00341,APP5078,16/07/2024,SME Loan,4215825,243,23.8,50,Salaried,317049,38.7,E,Kaduna,Mobile App,Declined,High DTI
+LN00342,APP3598,18/11/2024,SME Loan,4869846,211,16.1,33,Self-Employed,855869,58.8,D,Rivers,Agent,Declined,High DTI
+LN00343,APP6316,08/01/2024,Salary Advance,23094,30,7.8,23,Salaried,1116714,47.9,A,FCT,Mobile App,Approved,
+LN00344,APP6544,16/11/2024,Salary Advance,28299,30,9.9,29,Informal Trader,305770,22.8,E,Oyo,Web,Declined,Low Credit Score
+LN00345,APP1349,18/12/2024,Personal Loan,429793,107,13,49,Salaried,738061,39.9,C,Kano,Mobile App,Approved,
+LN00346,APP8674,20/05/2024,Buy Now Pay Later,21617,19,3.5,39,Salaried,672283,39.8,C,Enugu,USSD,Declined,Insufficient Income
+LN00347,APP4912,13/06/2024,SME Loan,3750508,228,20.4,56,Self-Employed,423237,43.7,B,Oyo,Mobile App,Approved,
+LN00348,APP2092,23/01/2024,Buy Now Pay Later,6252,19,9.1,52,Salaried,521849,15.4,C,Enugu,USSD,Approved,
+LN00349,APP5193,26/01/2024,Personal Loan,367694,99,10.2,28,Student,74409,61.1,D,Kaduna,Web,Approved,
+LN00350,APP7814,07/07/2024,SME Loan,989056,337,16.3,25,Salaried,757334,14.3,B,FCT,Mobile App,Approved,
+LN00351,APP7313,07/04/2024,Salary Advance,48049,30,9,26,Student,108198,40.7,C,Oyo,USSD,Declined,High DTI
+LN00352,APP7997,23/02/2024,Salary Advance,16822,30,8.5,55,Self-Employed,1358114,34.4,B,Oyo,USSD,Declined,Insufficient Income
+LN00353,APP7755,20/11/2024,Personal Loan,430563,131,17.3,34,Self-Employed,886564,52.1,E,Ogun,Mobile App,Declined,High DTI
+LN00354,APP1003,18/01/2024,Buy Now Pay Later,21521,14,6.6,22,Student,10860,26.5,B,Oyo,Mobile App,Declined,Insufficient Income
+LN00355,APP5521,10/10/2024,Personal Loan,349194,163,11.9,43,Salaried,447380,17.6,B,Rivers,Mobile App,Pending,
+LN00356,APP2505,19/10/2024,Personal Loan,163999,99,18.7,32,Informal Trader,305997,55.4,C,FCT,USSD,Approved,
+LN00357,APP7251,10/02/2024,SME Loan,3305063,269,26.1,28,Self-Employed,1924074,52.4,C,Lagos,USSD,Declined,High DTI
+LN00358,APP1886,05/06/2024,Personal Loan,217413,159,16.8,35,Salaried,441278,12.8,C,Enugu,Agent,Declined,Low Credit Score
+LN00359,APP4638,09/08/2024,Salary Advance,30842,30,5.9,57,Salaried,223412,40.1,B,Enugu,Mobile App,Declined,High DTI
+LN00360,APP3136,10/03/2024,Personal Loan,153865,152,14.7,56,Self-Employed,1391838,64.8,C,Rivers,Mobile App,Declined,High DTI
+LN00361,APP6298,16/12/2024,Buy Now Pay Later,4935,17,7.7,43,Self-Employed,499485,27.6,C,Lagos,Web,Approved,
+LN00362,APP6729,11/11/2024,Buy Now Pay Later,28306,28,7.4,35,Self-Employed,518770,47.7,A,FCT,Mobile App,Approved,
+LN00363,APP3419,27/05/2024,Salary Advance,12292,30,8.2,34,Salaried,564334,21.2,C,Ogun,Mobile App,Declined,High DTI
+LN00364,APP1301,11/07/2024,Personal Loan,397879,157,10.5,39,Salaried,540890,53.4,C,Lagos,Mobile App,Declined,High DTI
+LN00365,APP2091,17/07/2024,SME Loan,3521737,207,12.3,45,Informal Trader,171198,63.9,C,FCT,Agent,Declined,High DTI
+LN00366,APP9709,15/02/2024,Salary Advance,37810,30,8.9,23,Informal Trader,179704,60.7,B,Kaduna,Mobile App,Approved,
+LN00367,APP6681,16/12/2024,Personal Loan,377801,128,12.8,26,Student,46159,54.7,C,Enugu,Web,Declined,High DTI
+LN00368,APP1482,11/10/2024,Buy Now Pay Later,9391,18,5.4,29,Salaried,304119,50.1,C,Rivers,Mobile App,Declined,High DTI
+LN00369,APP7987,08/06/2024,Buy Now Pay Later,12790,28,6.8,29,Salaried,544275,57.4,B,Kano,Mobile App,Declined,High DTI
+LN00370,APP3378,01/12/2024,Buy Now Pay Later,7178,24,3.5,28,Self-Employed,486159,27.5,D,Lagos,Web,Declined,High DTI
+LN00371,APP7737,04/06/2024,Personal Loan,480806,171,21.2,33,Salaried,343915,17.2,A,Ogun,USSD,Approved,
+LN00372,APP4804,28/04/2024,SME Loan,3513702,200,23,53,Self-Employed,1874480,43.3,C,Oyo,Mobile App,Pending,
+LN00373,APP8763,11/03/2024,Salary Advance,19829,30,7.9,22,Student,64138,22.2,C,Rivers,Web,Approved,
+LN00374,APP8197,11/11/2024,Personal Loan,220338,148,20.7,23,Self-Employed,1374921,50.4,B,Oyo,Mobile App,Declined,High DTI
+LN00375,APP9784,25/09/2024,Personal Loan,419157,94,16.2,23,Self-Employed,1940837,64.8,C,Enugu,Agent,Approved,
+LN00376,APP7347,21/09/2024,SME Loan,913520,228,16.7,40,Salaried,719606,35.4,B,Lagos,USSD,Declined,Incomplete Docs
+LN00377,APP8400,16/02/2024,SME Loan,1449352,226,24.5,26,Student,27734,31.6,B,Lagos,Mobile App,Approved,
+LN00378,APP4308,20/08/2024,Salary Advance,26238,30,10,28,Salaried,1062456,44.9,A,Enugu,USSD,Declined,High DTI
+LN00379,APP3619,12/07/2024,Personal Loan,73019,111,20.9,30,Self-Employed,439998,57.8,A,Lagos,Mobile App,Approved,
+LN00380,APP8311,27/05/2024,Personal Loan,111632,106,21.5,37,Salaried,145601,35.2,D,Lagos,USSD,Declined,Low Credit Score
+LN00381,APP8794,20/08/2024,Personal Loan,91631,166,17.2,56,Salaried,703245,44.1,C,Rivers,Mobile App,Approved,
+LN00382,APP6718,19/01/2024,Salary Advance,7125,30,7.3,27,Salaried,994422,64.7,A,Ogun,USSD,Approved,
+LN00383,APP3906,21/08/2024,SME Loan,3521481,189,13.5,44,Salaried,914693,55.1,D,FCT,Mobile App,Pending,
+LN00384,APP5496,17/06/2024,Personal Loan,325065,116,18.3,27,Self-Employed,1298243,50.1,C,FCT,Mobile App,Declined,High DTI
+LN00385,APP5705,06/08/2024,Personal Loan,215931,123,16.3,23,Student,27001,43.8,C,Kaduna,Mobile App,Approved,
+LN00386,APP4812,28/12/2024,Salary Advance,17684,30,5.8,28,Self-Employed,1646583,56.6,D,Enugu,Mobile App,Declined,Low Credit Score
+LN00387,APP1185,23/11/2024,Salary Advance,23456,30,10.5,53,Salaried,799317,52.2,A,Oyo,Mobile App,Pending,
+LN00388,APP1477,30/03/2024,Salary Advance,27147,30,11.4,29,Informal Trader,302442,18.5,C,Oyo,Mobile App,Declined,Low Credit Score
+LN00389,APP9537,02/06/2024,Personal Loan,405570,130,16.7,57,Salaried,815665,54,D,Oyo,Mobile App,Pending,
+LN00390,APP1510,22/06/2024,Buy Now Pay Later,22529,19,7,28,Salaried,766512,48.8,B,Lagos,Mobile App,Approved,
+LN00391,APP4893,09/07/2024,Personal Loan,208664,117,16.3,44,Salaried,198423,52.8,E,Kaduna,Mobile App,Declined,Low Credit Score
+LN00392,APP4116,23/06/2024,Buy Now Pay Later,26000,30,5.2,27,Salaried,398328,21.3,A,Enugu,USSD,Approved,
+LN00393,APP1067,08/06/2024,Buy Now Pay Later,24513,16,5.3,27,Informal Trader,322932,52.1,C,Lagos,USSD,Approved,
+LN00394,APP4438,13/06/2024,Salary Advance,23780,30,8.7,28,Informal Trader,192949,18.2,B,Lagos,Agent,Approved,
+LN00395,APP2677,15/04/2024,Personal Loan,338025,130,13.3,22,Student,85246,23.5,A,Oyo,Mobile App,Approved,
+LN00396,APP1475,29/08/2024,Buy Now Pay Later,3653,17,5.7,46,Salaried,495354,48.8,D,Kaduna,USSD,Declined,Low Credit Score
+LN00397,APP9740,10/02/2024,Buy Now Pay Later,26764,28,7,50,Salaried,323975,35.1,C,Kaduna,Mobile App,Declined,High DTI
+LN00398,APP5227,05/07/2024,Personal Loan,416799,175,14,41,Informal Trader,287650,36.8,A,FCT,Mobile App,Approved,
+LN00399,APP3798,24/05/2024,SME Loan,1568658,310,13.6,27,Informal Trader,220849,40.6,A,Ogun,Mobile App,Approved,
+LN00400,APP7773,02/05/2024,Personal Loan,337283,110,21.7,42,Salaried,556707,54.8,C,Enugu,USSD,Approved,
+LN00401,APP4869,29/03/2024,SME Loan,1153425,362,21.2,58,Self-Employed,1350060,35.5,C,Kaduna,Mobile App,Declined,Low Credit Score
+LN00402,APP2781,16/12/2024,Buy Now Pay Later,27275,26,5.3,24,Self-Employed,289861,22,A,Lagos,Web,Approved,
+LN00403,APP8421,29/09/2024,Salary Advance,45342,30,6.4,41,Self-Employed,728590,41.4,E,Ogun,Agent,Declined,High DTI
+LN00404,APP2462,25/10/2024,Salary Advance,38451,30,10.9,24,Informal Trader,243579,59.6,E,Lagos,USSD,Declined,High DTI
+LN00405,APP2797,24/05/2024,Buy Now Pay Later,9708,27,7.9,41,Salaried,922768,32.3,B,Rivers,USSD,Approved,
+LN00406,APP4083,11/10/2024,Personal Loan,238894,143,11.9,28,Student,26455,17.4,A,Lagos,Mobile App,Declined,Insufficient Income
+LN00407,APP8155,10/03/2024,Salary Advance,47090,30,11,48,Informal Trader,376761,19.9,C,Kaduna,Mobile App,Approved,
+LN00408,APP7959,05/11/2024,Salary Advance,37647,30,10,55,Salaried,889591,11.8,A,Kaduna,USSD,Approved,
+LN00409,APP8889,19/12/2024,Salary Advance,39498,30,8.3,26,Salaried,634287,36,C,FCT,USSD,Approved,
+LN00410,APP6119,09/11/2024,Salary Advance,27514,30,8.3,51,Self-Employed,1303692,50.4,B,Ogun,Mobile App,Approved,
+LN00411,APP5981,15/10/2024,Salary Advance,46241,30,9,39,Self-Employed,1796377,50.6,A,Kaduna,Mobile App,Approved,
+LN00412,APP5552,09/05/2024,Salary Advance,23413,30,11,28,Salaried,486191,60.1,C,Kaduna,Mobile App,Approved,
+LN00413,APP4869,05/09/2024,Salary Advance,39562,30,7.4,30,Salaried,443276,56.1,D,Enugu,Web,Declined,High DTI
+LN00414,APP3740,17/04/2024,Personal Loan,491362,134,10.7,28,Salaried,230149,19.2,B,Ogun,Mobile App,Declined,High DTI
+LN00415,APP7222,15/12/2024,SME Loan,4481145,247,14.3,21,Informal Trader,201410,61,B,Oyo,Agent,Declined,High DTI
+LN00416,APP1672,19/02/2024,Buy Now Pay Later,22887,25,9.7,38,Self-Employed,802477,24.9,D,Ogun,USSD,Declined,Low Credit Score
+LN00417,APP4193,23/09/2024,Salary Advance,16791,30,8.8,25,Self-Employed,125084,32.6,C,Kaduna,Mobile App,Declined,Insufficient Income
+LN00418,APP4163,18/01/2024,Salary Advance,11025,30,11.6,34,Self-Employed,1357001,45.1,C,FCT,Mobile App,Declined,High DTI
+LN00419,APP7159,02/12/2024,SME Loan,2049951,208,23.1,50,Salaried,278784,45.1,E,Ogun,Web,Declined,High DTI
+LN00420,APP5216,23/03/2024,SME Loan,2826055,195,18.1,24,Salaried,661565,62.6,B,Kaduna,Mobile App,Declined,High DTI
+LN00421,APP4287,08/11/2024,Personal Loan,388419,152,11.3,48,Self-Employed,557989,43.8,A,Kaduna,USSD,Approved,
+LN00422,APP2194,06/02/2024,Personal Loan,181384,147,10.2,21,Self-Employed,179347,46.6,B,Oyo,Agent,Pending,
+LN00423,APP9444,28/12/2024,Buy Now Pay Later,18078,29,6.1,25,Informal Trader,333183,22.4,B,Kaduna,Mobile App,Approved,
+LN00424,APP6880,19/06/2024,SME Loan,3860600,194,22.1,19,Student,57887,39.4,E,FCT,Web,Declined,High DTI
+LN00425,APP4327,31/03/2024,Personal Loan,251412,174,12.3,27,Self-Employed,1422499,47.9,C,Kaduna,USSD,Approved,
+LN00426,APP4163,13/01/2024,SME Loan,2500558,305,18.2,40,Informal Trader,311978,39.4,D,Kaduna,Agent,Approved,
+LN00427,APP6558,29/01/2024,Salary Advance,7805,30,5.8,54,Informal Trader,290318,61.7,D,Kano,USSD,Declined,Low Credit Score
+LN00428,APP1604,13/03/2024,Personal Loan,59994,150,20.9,36,Self-Employed,1570726,45.7,A,Lagos,Agent,Declined,High DTI
+LN00429,APP2594,21/08/2024,Personal Loan,487965,165,10.8,28,Informal Trader,310646,42.7,C,FCT,Web,Declined,High DTI
+LN00430,APP7586,15/06/2024,Salary Advance,49832,30,7.3,21,Student,110168,12.5,A,FCT,Mobile App,Approved,
+LN00431,APP7801,27/03/2024,SME Loan,1884171,292,15.9,29,Self-Employed,309647,53.5,C,Enugu,Web,Approved,
+LN00432,APP8978,11/02/2024,Salary Advance,16758,30,9.9,39,Self-Employed,972881,48.1,D,Kaduna,USSD,Declined,High DTI
+LN00433,APP9570,18/08/2024,Personal Loan,141513,168,18.3,52,Self-Employed,1383561,62.3,C,Ogun,Mobile App,Approved,
+LN00434,APP4860,08/04/2024,Salary Advance,39747,30,9.3,55,Informal Trader,316097,22.1,D,Rivers,Mobile App,Approved,
+LN00435,APP3444,16/12/2024,Buy Now Pay Later,17545,29,4.2,23,Self-Employed,213304,45.5,B,Enugu,Mobile App,Pending,
+LN00436,APP8424,23/01/2024,Salary Advance,8437,30,6.1,53,Salaried,363406,13.9,B,Kaduna,USSD,Approved,
+LN00437,APP4256,12/12/2024,Buy Now Pay Later,9538,17,5.3,47,Salaried,539337,30.7,B,Kaduna,USSD,Approved,
+LN00438,APP8141,15/03/2024,Salary Advance,44939,30,6.2,50,Salaried,527172,44.8,E,Rivers,Mobile App,Pending,
+LN00439,APP1977,23/05/2024,Salary Advance,35509,30,7.9,35,Informal Trader,204749,43.2,D,Kano,USSD,Declined,Low Credit Score
+LN00440,APP2416,29/07/2024,Buy Now Pay Later,18030,20,7.1,38,Informal Trader,57604,50.2,C,Rivers,Mobile App,Declined,High DTI
+LN00441,APP4643,29/10/2024,Buy Now Pay Later,20799,14,5.9,51,Salaried,1177418,11.8,C,Kaduna,Web,Declined,Low Credit Score
+LN00442,APP8412,10/09/2024,Salary Advance,41601,30,9.9,34,Self-Employed,378317,29.7,B,FCT,Mobile App,Approved,
+LN00443,APP3650,26/12/2024,Personal Loan,349043,164,10.3,29,Self-Employed,1933328,48.7,A,Oyo,USSD,Pending,
+LN00444,APP1022,17/11/2024,Salary Advance,26817,30,7.1,55,Informal Trader,351585,53.7,D,FCT,USSD,Declined,Low Credit Score
+LN00445,APP9433,11/12/2024,Personal Loan,77033,104,14.6,23,Self-Employed,866658,30.2,C,FCT,USSD,Declined,High DTI
+LN00446,APP6487,02/05/2024,Personal Loan,390283,151,18.8,34,Informal Trader,168194,27.6,D,Enugu,Mobile App,Approved,
+LN00447,APP6656,19/08/2024,Personal Loan,326133,105,15.6,55,Self-Employed,1986285,26.1,C,FCT,Mobile App,Declined,Low Credit Score
+LN00448,APP2313,19/07/2024,Buy Now Pay Later,11449,16,3.8,30,Salaried,1160876,18.3,B,Lagos,Mobile App,Declined,High DTI
+LN00449,APP8764,26/06/2024,Personal Loan,436772,172,10.3,22,Salaried,607227,55.9,C,Oyo,Mobile App,Approved,
+LN00450,APP6346,05/09/2024,Personal Loan,415357,157,20.1,40,Self-Employed,1289612,17.3,D,Kano,Web,Approved,
+LN00451,APP7093,27/05/2024,SME Loan,896940,217,17.6,31,Self-Employed,1397361,60.8,C,Ogun,Mobile App,Approved,
+LN00452,APP3514,23/03/2024,Salary Advance,7696,30,9,44,Self-Employed,486917,21.3,C,Oyo,Agent,Approved,
+LN00453,APP8347,03/10/2024,Buy Now Pay Later,19486,23,3.9,52,Salaried,424892,62.1,E,Kano,Mobile App,Declined,High DTI
+LN00454,APP5842,30/08/2024,Buy Now Pay Later,26712,18,8.6,49,Informal Trader,227568,47.9,C,Lagos,Mobile App,Declined,High DTI
+LN00455,APP6047,13/01/2024,Personal Loan,490861,118,15.4,24,Salaried,529258,42.1,B,Ogun,Mobile App,Approved,
+LN00456,APP8298,12/12/2024,SME Loan,1232970,311,18.3,53,Self-Employed,217540,60,B,Kano,USSD,Approved,
+LN00457,APP7326,09/07/2024,Salary Advance,27604,30,7.2,56,Self-Employed,283707,21.9,D,Enugu,Web,Approved,
+LN00458,APP7944,31/07/2024,Salary Advance,43481,30,6,54,Salaried,823419,13.6,E,Enugu,Mobile App,Declined,High DTI
+LN00459,APP7791,30/03/2024,Personal Loan,422373,162,19.1,32,Salaried,920628,25.9,C,Ogun,Web,Approved,
+LN00460,APP8593,24/04/2024,Salary Advance,5160,30,6.8,28,Student,71936,16.8,C,Ogun,Mobile App,Approved,
+LN00461,APP5009,15/01/2024,Salary Advance,23167,30,12,44,Salaried,1127651,41.1,D,Kaduna,Agent,Declined,High DTI
+LN00462,APP9397,21/10/2024,Salary Advance,22009,30,9.1,50,Salaried,404158,29.7,A,Oyo,Mobile App,Pending,
+LN00463,APP6832,25/01/2024,Salary Advance,39708,30,8.6,32,Informal Trader,99549,42.9,A,Oyo,Web,Declined,High DTI
+LN00464,APP5932,18/05/2024,SME Loan,3541060,204,20.6,30,Salaried,147048,17.5,B,Kaduna,Mobile App,Declined,High DTI
+LN00465,APP2678,21/04/2024,Salary Advance,19490,30,10.6,54,Self-Employed,1874336,39.3,C,FCT,Mobile App,Declined,Low Credit Score
+LN00466,APP3150,09/01/2024,Personal Loan,213354,178,14.4,54,Informal Trader,229330,19.5,B,FCT,Mobile App,Declined,High DTI
+LN00467,APP4712,06/06/2024,Salary Advance,13533,30,8,28,Informal Trader,90755,11,C,Enugu,Mobile App,Approved,
+LN00468,APP9412,30/10/2024,Salary Advance,12793,30,5.3,21,Salaried,322382,53,E,Rivers,USSD,Declined,High DTI
+LN00469,APP1479,16/02/2024,Salary Advance,23178,30,7.5,36,Informal Trader,314717,41.4,A,Lagos,Mobile App,Pending,
+LN00470,APP5617,28/03/2024,Buy Now Pay Later,19600,14,9.8,34,Salaried,1177374,56.8,C,Kano,Mobile App,Declined,High DTI
+LN00471,APP3963,30/06/2024,Buy Now Pay Later,15896,20,6.6,41,Self-Employed,359240,35.6,C,Kaduna,Web,Declined,Low Credit Score
+LN00472,APP2347,16/06/2024,Personal Loan,251736,126,15.5,49,Informal Trader,168422,40.5,B,Enugu,Mobile App,Approved,
+LN00473,APP8793,13/12/2024,Personal Loan,56703,176,15.9,49,Salaried,298270,16.6,B,FCT,USSD,Declined,High DTI
+LN00474,APP2060,05/07/2024,Buy Now Pay Later,13096,20,7.2,19,Student,40522,56.1,C,Ogun,Web,Declined,High DTI
+LN00475,APP5472,25/11/2024,Buy Now Pay Later,13668,29,7.7,25,Student,77032,25.3,D,FCT,Mobile App,Declined,Low Credit Score
+LN00476,APP3205,16/01/2024,Salary Advance,8463,30,8.5,32,Salaried,922439,43.3,B,Ogun,USSD,Approved,
+LN00477,APP2253,04/12/2024,SME Loan,4628768,299,15.2,52,Self-Employed,1158631,24.4,B,Lagos,Agent,Approved,
+LN00478,APP8051,01/03/2024,Personal Loan,214919,138,15.3,32,Salaried,755530,58.7,A,Enugu,Mobile App,Pending,
+LN00479,APP8986,26/02/2024,Personal Loan,307191,174,16.6,51,Self-Employed,1098057,40.9,A,Lagos,Mobile App,Approved,
+LN00480,APP7189,11/11/2024,SME Loan,2886035,262,13,29,Self-Employed,1855178,30.2,D,Lagos,Web,Declined,High DTI
+LN00481,APP2594,07/08/2024,Salary Advance,28420,30,7.5,36,Self-Employed,592038,45.6,C,FCT,Web,Approved,
+LN00482,APP3781,11/01/2024,Personal Loan,69596,148,17.9,53,Self-Employed,1990393,33.2,A,Kaduna,USSD,Declined,Incomplete Docs
+LN00483,APP7394,14/06/2024,Personal Loan,473795,152,11.2,42,Self-Employed,1141721,37.7,D,Oyo,Mobile App,Approved,
+LN00484,APP8143,13/04/2024,Personal Loan,494247,99,20.1,39,Self-Employed,656070,12.6,E,Enugu,Web,Declined,Low Credit Score
+LN00485,APP2552,30/10/2024,Salary Advance,9408,30,8,25,Salaried,753019,37.8,B,Oyo,Mobile App,Approved,
+LN00486,APP9443,20/08/2024,SME Loan,2014989,184,22,32,Self-Employed,1309728,37.5,C,Kaduna,Mobile App,Declined,Incomplete Docs
+LN00487,APP1981,24/09/2024,Salary Advance,35309,30,6.7,40,Informal Trader,278269,32.6,D,FCT,USSD,Declined,High DTI
+LN00488,APP5702,26/11/2024,Salary Advance,44402,30,7.8,33,Salaried,178099,23.5,D,Kaduna,Mobile App,Declined,High DTI
+LN00489,APP1606,13/04/2024,Salary Advance,13941,30,6.8,56,Informal Trader,142266,45.4,A,Kaduna,Web,Approved,
+LN00490,APP2375,09/06/2024,Personal Loan,83335,142,20.8,26,Self-Employed,932349,61.9,C,Kano,Mobile App,Declined,High DTI
+LN00491,APP9196,02/03/2024,Personal Loan,484625,164,21.4,22,Student,75070,58.7,B,FCT,Web,Approved,
+LN00492,APP7388,30/04/2024,Buy Now Pay Later,9143,18,3.7,38,Salaried,1041646,32.5,D,Lagos,Mobile App,Declined,Low Credit Score
+LN00493,APP6185,06/10/2024,Personal Loan,407951,121,21.6,30,Informal Trader,240315,36.1,B,Ogun,Mobile App,Declined,Low Credit Score
+LN00494,APP1895,19/12/2024,Buy Now Pay Later,24006,21,4.8,44,Salaried,375965,39.4,B,Kaduna,Mobile App,Declined,Incomplete Docs
+LN00495,APP5186,03/06/2024,Salary Advance,20431,30,6.5,49,Informal Trader,381010,27.4,D,Enugu,Web,Approved,
+LN00496,APP2312,08/09/2024,Personal Loan,266510,132,18.6,27,Informal Trader,134066,48.4,C,Oyo,Mobile App,Declined,High DTI
+LN00497,APP9973,16/06/2024,Personal Loan,64339,96,17.7,49,Salaried,405406,10.2,B,Ogun,Mobile App,Approved,
+LN00498,APP3585,07/05/2024,Personal Loan,452447,173,19.2,47,Informal Trader,217457,34.8,D,Kano,Mobile App,Declined,High DTI
+LN00499,APP5616,11/04/2024,Salary Advance,29091,30,7.8,57,Salaried,590783,11.1,A,Rivers,Agent,Declined,High DTI
+LN00500,APP5289,25/12/2024,Buy Now Pay Later,3631,26,7.3,30,Self-Employed,286775,62.7,A,FCT,Mobile App,Approved,
